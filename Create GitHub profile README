@@ -1,6 +1,6 @@
 # Barry Page
 
-Systems administrator focused on Windows endpoint automation, diagnostics, and deployment reliability.
+🛠 Systems administrator focused on Windows endpoint automation, diagnostics, and deployment reliability.
 
 I enjoy building practical PowerShell tools that help manage and troubleshoot real-world Windows environments.
 
@@ -20,11 +20,11 @@ I enjoy building practical PowerShell tools that help manage and troubleshoot re
 
 One example project:
 
-PowerShell Endpoint Automation Toolkit  
+**PowerShell Endpoint Automation Toolkit**  
 A small toolkit demonstrating practical PowerShell automation and diagnostics.
 
-Repository:
-https://github.com/bpozzie/PowerShell-Endpoint-Automation-Toolkit
+Repository:  
+[PowerShell Endpoint Automation Toolkit](https://github.com/bpozzie/PowerShell-Endpoint-Automation-Toolkit)
 
 ---
 
@@ -35,8 +35,8 @@ Technologies I frequently work with:
 - PowerShell
 - Windows administration
 - Endpoint management tools
-- automation scripting
-- system diagnostics
+- Automation scripting
+- System diagnostics
 
 ---
 
